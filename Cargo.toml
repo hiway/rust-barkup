@@ -1,8 +1,13 @@
 [package]
 name = "barkup"
-version = "0.1.0"
-authors = ["harshad"]
+version = "0.0.0"
+authors = ["Harshad Sharms <harshad@sharma.io>"]
 edition = "2018"
+description = "Barkup: Archive and Search Browser Bookmarks"
+homepage = "https://github.com/hiway/rust-barkup"
+repository = "https://github.com/hiway/rust-barkup"
+license-file = "LICENSE"
+keywords = ["archive", "bookmark", "browser", "firefox"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
